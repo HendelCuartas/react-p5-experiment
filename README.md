@@ -1,5 +1,5 @@
-# react-boilerplate
-React Project Setup (stylus, Babel). Note that all dependencies that you include should be included manually when configuring your project.
+# react-p5-experiment
+React boiler with p5.js.
 
 # Install
 
